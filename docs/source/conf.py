@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'UGC Net Syllabus for Computer Science Option'
+copyright = '2023, Ramn Gupta'
+author = 'Raman Gupta'
 
 release = '0.1'
 version = '0.1.0'
