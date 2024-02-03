@@ -33,9 +33,11 @@ Unit - 1 : Discrete Structures and Optimization
 ============================================
 
 Welcome to the documentation for Unit 1.
+.. gist:: a1d2b4694c43db24cd210ea1dbb03e0c
+   :file: llday1.cpp
 
 This is the content of Unit 1.
-
+<script src="https://gist.github.com/rioxraman/a1d2b4694c43db24cd210ea1dbb03e0c.js"></script>
 .. toctree::
    :hidden:
 
