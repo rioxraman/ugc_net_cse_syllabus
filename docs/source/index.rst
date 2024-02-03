@@ -38,6 +38,30 @@ This is the content of Unit 1.
 
 Link to Gist: `llday1.cpp Gist <https://gist.github.com/a1d2b4694c43db24cd210ea1dbb03e0c>`.
 
+.. code-block:: cpp
+
+    #include <iostream>
+    using namespace std;
+
+    class Node {
+    public:
+        int data;
+        Node *next;
+
+        Node(int data){
+            this ->data= data;
+            next =NULL;
+        }
+    };
+
+    int main(){
+        Node n1(1);
+        Node n2(2);
+        n1.next =&n2;
+        cout <<n1.data<<" "<<n2.data<<endl;
+        return 0;
+    }
+    
 .. toctree::
    :hidden:
 
