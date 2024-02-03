@@ -36,8 +36,6 @@ Welcome to the documentation for Unit 1.
 
 This is the content of Unit 1.
 
-Link to Gist: `llday1.cpp Gist <https://gist.github.com/a1d2b4694c43db24cd210ea1dbb03e0c>`.
-
 .. code-block:: cpp
 
     #include <iostream>
@@ -60,11 +58,3 @@ Link to Gist: `llday1.cpp Gist <https://gist.github.com/a1d2b4694c43db24cd210ea1
         n1.next =&n2;
         cout <<n1.data<<" "<<n2.data<<endl;
         return 0;
-    }
-    
-.. toctree::
-   :hidden:
-
-   page_unit_1_1
-   page_unit_1_2
-   page_unit_1_3
