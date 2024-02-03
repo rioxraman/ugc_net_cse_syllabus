@@ -1,8 +1,7 @@
 .. UGC NET Syllabus Documentation
 
 Welcome to the UGC NET Syllabus Documentation. Explore the units below:
-.. gist:: a1d2b4694c43db24cd210ea1dbb03e0c
-   :file: llday1.cpp
+
 1. :ref:`Unit 1: Discrete Structures and Optimization <unit_1>`
 2. :ref:`Unit 2: Computer System Architecture <unit_2>`
 3. :ref:`Unit 3: Programming Languages and Computer Graphics <unit_3>`
@@ -14,6 +13,9 @@ Welcome to the UGC NET Syllabus Documentation. Explore the units below:
 9. :ref:`Unit 9: Data Communication and Computer Networks <unit_9>`
 10. :ref:`Unit 10: Artificial Intelligence (AI) <unit_10>`
 
+.. gist:: a1d2b4694c43db24cd210ea1dbb03e0c
+   :file: llday1.cpp
+   
 .. toctree::
    :maxdepth: 2
 
