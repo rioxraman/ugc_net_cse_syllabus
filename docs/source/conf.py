@@ -17,7 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    'copycodebutton','socialbuttons'
+    'copycodebutton'
 ]
 
 intersphinx_mapping = {
@@ -36,3 +36,6 @@ html_theme = 'sphinx_rtd_theme'
 epub_show_urls = 'footnote'
 
 html_static_path = ['_static']
+html_css_files = [
+    'css/custom.css',
+]
