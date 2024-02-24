@@ -58,3 +58,18 @@ This is the content of Unit 1.
         n1.next =&n2;
         cout <<n1.data<<" "<<n2.data<<endl;
         return 0;
+
+
+<!-- Social Media Share Buttons -->
+<div class="social-share-buttons">
+    <a href="https://www.facebook.com/sharer/sharer.php?u=YOUR_URL" target="_blank">
+        <i class="fa fa-facebook"></i> Share on Facebook
+    </a>
+    <a href="https://twitter.com/intent/tweet?url=YOUR_URL" target="_blank">
+        <i class="fa fa-twitter"></i> Share on Twitter
+    </a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=YOUR_URL" target="_blank">
+        <i class="fa fa-linkedin"></i> Share on LinkedIn
+    </a>
+    <!-- Add more buttons as needed -->
+</div>
