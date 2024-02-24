@@ -27,8 +27,6 @@ Welcome to the UGC NET Syllabus Documentation. Explore the units below:
    unit_9
    unit_10
 
-
-
 .. _unit_1:
 
 Unit - 1 : Discrete Structures and Optimization
@@ -38,35 +36,25 @@ Welcome to the documentation for Unit 1.
 
 This is the content of Unit 1.
 
-.. tabs::
+.. code-block:: cpp
 
-   .. tab:: Python
+    #include <iostream>
+    using namespace std;
 
-      .. code-block:: python
+    class Node {
+    public:
+        int data;
+        Node *next;
 
-         # Python code here
-         print("Hello, World!")
+        Node(int data){
+            this ->data= data;
+            next =NULL;
+        }
+    };
 
-   .. tab:: C++
-
-      .. code-block:: cpp
-
-         // C++ code here
-         #include <iostream>
-         int main() {
-             std::cout << "Hello, World!" << std::endl;
-             return 0;
-         }
-
-   .. tab:: Java
-
-      .. code-block:: java
-
-         // Java code here
-         public class HelloWorld {
-             public static void main(String[] args) {
-                 System.out.println("Hello, World!");
-             }
-         }
-
-
+    int main(){
+        Node n1(1);
+        Node n2(2);
+        n1.next =&n2;
+        cout <<n1.data<<" "<<n2.data<<endl;
+        return 0;

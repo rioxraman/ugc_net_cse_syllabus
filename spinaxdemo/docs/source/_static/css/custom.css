@@ -1,0 +1,10 @@
+/* custom.css */
+.social-media-buttons {
+  text-align: center;
+  margin-top: 20px;
+}
+.social-media-buttons a {
+  margin: 0 10px;
+  display: inline-block;
+  /* Add more styles as needed */
+}

@@ -1,0 +1,160 @@
+.. _unit_1:
+
+Unit - 1 : Discrete Structures and Optimization
+============================================
+
+Welcome to the documentation for Unit 1.
+
+This is the content of Unit 1.
+
+.. toctree::
+   :hidden:
+
+   page_unit_1_1
+   page_unit_1_2
+   page_unit_1_3
+
+.. _unit_2:
+
+Unit - 2 : Computer System Architecture
+============================================
+
+Welcome to the documentation for Unit 1.
+
+This is the content of Unit 1.
+
+.. toctree::
+   :hidden:
+
+   page_unit_2_1
+   page_unit_2_2
+   page_unit_2_3
+
+.. _unit_3:
+
+Unit - 3 : Programming Languages and Computer Graphics
+============================================
+
+Welcome to the documentation for Unit 1.
+
+This is the content of Unit 1.
+
+.. toctree::
+   :hidden:
+
+   page_unit_3_1
+   page_unit_3_2
+   page_unit_3_3
+
+.. _unit_4:
+
+Unit – 4 : Database Management Systems
+============================================
+
+Welcome to the documentation for Unit 1.
+
+This is the content of Unit 1.
+
+.. toctree::
+   :hidden:
+
+   page_unit_4_1
+   page_unit_4_2
+   page_unit_4_3
+
+.. _unit_5:
+
+Unit – 5 : System Software and Operating System
+============================================
+
+Welcome to the documentation for Unit 1.
+
+This is the content of Unit 1.
+
+.. toctree::
+   :hidden:
+
+   page_unit_5_1
+   page_unit_5_2
+   page_unit_5_3
+
+.. _unit_6:
+
+Unit – 6 : Software Engineering
+============================================
+
+Welcome to the documentation for Unit 1.
+
+This is the content of Unit 1.
+
+.. toctree::
+   :hidden:
+
+   page_unit_6_1
+   page_unit_6_2
+   page_unit_6_3
+
+.. _unit_7:
+
+Unit – 7 : Data Structures and Algorithms
+============================================
+
+Welcome to the documentation for Unit 1.
+
+This is the content of Unit 1.
+
+.. toctree::
+   :hidden:
+
+   page_unit_7_1
+   page_unit_7_2
+   page_unit_7_3
+
+.. _unit_8:
+
+Unit – 8 : Theory of Computation and Compilers
+============================================
+
+Welcome to the documentation for Unit 1.
+
+This is the content of Unit 1.
+
+.. toctree::
+   :hidden:
+
+   page_unit_8_1
+   page_unit_8_2
+   page_unit_8_3
+
+.. _unit_9:
+
+Unit – 9 : Data Communication and Computer Networks
+============================================
+
+Welcome to the documentation for Unit 1.
+
+This is the content of Unit 1.
+
+.. toctree::
+   :hidden:
+
+   page_unit_9_1
+   page_unit_9_2
+   page_unit_9_3
+
+.. _unit_10:
+
+Unit – 10 : Artificial Intelligence (AI)
+============================================
+
+Welcome to the documentation for Unit 1.
+
+This is the content of Unit 1.
+
+.. toctree::
+   :hidden:
+
+   page_unit_10_1
+   page_unit_10_2
+   page_unit_10_3
+
